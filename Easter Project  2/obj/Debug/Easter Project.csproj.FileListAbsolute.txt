@@ -1,0 +1,46 @@
+C:\Users\Vagelis\Desktop\Easter Project\bin\Debug\Easter Project.exe.config
+C:\Users\Vagelis\Desktop\Easter Project\bin\Debug\Easter Project.exe
+C:\Users\Vagelis\Desktop\Easter Project\bin\Debug\Easter Project.pdb
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.csproj.AssemblyReference.cache
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Form1.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Form2.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Properties.Resources.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.csproj.GenerateResource.cache
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.csproj.CoreCompileInputs.cache
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.exe
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.pdb
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Ιστορία.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Αξιοθέατα.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.ΟΤόπος.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Έθιμα.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Παραλίες.resources
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter_Project.Φαγητό.resources
+C:\Users\Vagelis\Desktop\Easter Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vagelis\Desktop\Easter Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vagelis\Desktop\Easter Project\obj\Debug\Easter Project.csproj.ResolveComReference.cache
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\bin\Debug\Easter Project.exe.config
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\bin\Debug\Easter Project.exe
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\bin\Debug\Easter Project.pdb
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.csproj.AssemblyReference.cache
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.csproj.ResolveComReference.cache
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Form1.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Form2.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Properties.Resources.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Έθιμα.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Αξιοθέατα.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Ιστορία.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.ΟΤόπος.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Παραλίες.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter_Project.Φαγητό.resources
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.csproj.GenerateResource.cache
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.csproj.CoreCompileInputs.cache
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.exe
+C:\Users\Vagelis\Desktop\MSc Πληροφορική\10.ΤΑΧΕΙΑ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\Easter Project  2\obj\Debug\Easter Project.pdb
